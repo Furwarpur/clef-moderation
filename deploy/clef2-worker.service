@@ -1,0 +1,20 @@
+[Unit]
+Description=Clef2 single-pass moderation worker
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+WorkingDirectory=/home/fwpw/projects/live/clef2
+EnvironmentFile=/home/fwpw/projects/live/clef2/.env
+Environment=PYTHONUNBUFFERED=1
+Environment=PYTHONNOUSERSITE=1
+ExecStart=/home/fwpw/projects/live/clef2/runtime/venv/bin/python /home/fwpw/projects/live/clef2/worker.py
+Restart=on-failure
+RestartSec=5
+KillMode=control-group
+TimeoutStopSec=20
+UMask=0077
+
+[Install]
+WantedBy=default.target

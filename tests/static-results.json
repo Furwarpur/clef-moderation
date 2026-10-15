@@ -1,0 +1,176 @@
+{
+  "live-v1-ordinary-01": null,
+  "live-v1-ordinary-02": null,
+  "live-v1-ordinary-03": null,
+  "live-v1-ordinary-04": null,
+  "live-v1-ordinary-05": null,
+  "live-v1-ordinary-06": null,
+  "live-v1-ordinary-07": null,
+  "live-v1-ordinary-08": null,
+  "live-v1-ordinary-09": null,
+  "live-v1-ordinary-10": null,
+  "live-v1-ordinary-11": null,
+  "live-v1-person-01": {
+    "decision": "block",
+    "categories": [
+      "tsukuba_person"
+    ]
+  },
+  "live-v1-person-02": {
+    "decision": "block",
+    "categories": [
+      "tsukuba_person"
+    ]
+  },
+  "live-v1-person-03": {
+    "decision": "block",
+    "categories": [
+      "tsukuba_person"
+    ]
+  },
+  "live-v1-person-04": {
+    "decision": "block",
+    "categories": [
+      "tsukuba_person"
+    ]
+  },
+  "live-v1-person-05": {
+    "decision": "block",
+    "categories": [
+      "tsukuba_person"
+    ]
+  },
+  "live-v1-person-06": {
+    "decision": "block",
+    "categories": [
+      "tsukuba_person"
+    ]
+  },
+  "live-v1-imperial-01": {
+    "decision": "block",
+    "categories": [
+      "imperial_topic"
+    ]
+  },
+  "live-v1-imperial-02": {
+    "decision": "block",
+    "categories": [
+      "imperial_topic"
+    ]
+  },
+  "live-v1-imperial-03": {
+    "decision": "block",
+    "categories": [
+      "imperial_topic"
+    ]
+  },
+  "live-v1-imperial-04": {
+    "decision": "block",
+    "categories": [
+      "imperial_topic"
+    ]
+  },
+  "live-v1-imperial-05": {
+    "decision": "block",
+    "categories": [
+      "imperial_topic"
+    ]
+  },
+  "live-v1-imperial-06": {
+    "decision": "block",
+    "categories": [
+      "imperial_topic"
+    ]
+  },
+  "live-v1-imperial-07": {
+    "decision": "block",
+    "categories": [
+      "imperial_topic"
+    ]
+  },
+  "live-v1-imperial-08": {
+    "decision": "block",
+    "categories": [
+      "imperial_topic"
+    ]
+  },
+  "live-v1-imperial-09": {
+    "decision": "block",
+    "categories": [
+      "imperial_topic"
+    ]
+  },
+  "live-v1-imperial-10": {
+    "decision": "block",
+    "categories": [
+      "imperial_topic"
+    ]
+  },
+  "live-v1-nuclear-01": {
+    "decision": "block",
+    "categories": [
+      "nuclear_topic"
+    ]
+  },
+  "live-v1-nuclear-02": {
+    "decision": "block",
+    "categories": [
+      "nuclear_topic"
+    ]
+  },
+  "live-v1-nuclear-03": {
+    "decision": "block",
+    "categories": [
+      "nuclear_topic"
+    ]
+  },
+  "live-v1-nuclear-04": {
+    "decision": "block",
+    "categories": [
+      "nuclear_topic"
+    ]
+  },
+  "live-v1-nuclear-05": {
+    "decision": "block",
+    "categories": [
+      "nuclear_topic"
+    ]
+  },
+  "live-v1-url-01": {
+    "decision": "block",
+    "categories": [
+      "url"
+    ]
+  },
+  "live-v1-url-02": {
+    "decision": "block",
+    "categories": [
+      "url"
+    ]
+  },
+  "live-v1-url-03": {
+    "decision": "block",
+    "categories": [
+      "url"
+    ]
+  },
+  "live-v1-url-04": {
+    "decision": "block",
+    "categories": [
+      "url"
+    ]
+  },
+  "live-v1-semantic-01": null,
+  "live-v1-semantic-02": null,
+  "live-v1-semantic-03": null,
+  "live-v1-semantic-04": null,
+  "live-v1-semantic-05": null,
+  "live-v1-semantic-06": null,
+  "live-v1-semantic-07": null,
+  "live-v1-semantic-08": null,
+  "live-v1-semantic-09": null,
+  "live-v1-semantic-10": null,
+  "live-v1-semantic-11": null,
+  "live-v1-semantic-12": null,
+  "live-v1-semantic-13": null
+}

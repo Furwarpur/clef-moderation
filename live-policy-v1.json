@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "policy_id": "tsukuba-live-v1",
+  "policy_file": "policy-live-v1.md",
+  "policy_sha256": "aaa79d937e598d3ad4546355d6f7fe9b700885f0f3a807d60eab0904d0be0d4c",
+  "static_groups": [
+    {
+      "category": "tsukuba_person",
+      "terms": [
+        "永田",
+        "永田学長",
+        "永田恭介",
+        "ながたがくちょう",
+        "ながたきょうすけ",
+        "Nagata Kyosuke",
+        "Kyosuke Nagata",
+        "ngt",
+        "nagata"
+      ]
+    },
+    {
+      "category": "imperial_topic",
+      "terms": [
+        "悠仁",
+        "ひさひと",
+        "ひっさー",
+        "Hisahito",
+        "皇室",
+        "皇族",
+        "天皇",
+        "皇后",
+        "皇嗣",
+        "親王",
+        "内親王"
+      ]
+    },
+    {
+      "category": "nuclear_topic",
+      "terms": [
+        "核実験",
+        "かくじっけん",
+        "nuclear test"
+      ]
+    }
+  ]
+}
